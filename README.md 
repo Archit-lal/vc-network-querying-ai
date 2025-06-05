@@ -1,0 +1,9 @@
+SpringBank Professional VC Network Assistant
+
+A Streamlit app using LangChain, Affinity, and Harmonic APIs to answer natural language queries about your professional network.
+
+## Setup
+
+1. `pip install -r requirements.txt`
+2. Add your API keys to `.env`
+3. `streamlit run app.py`
